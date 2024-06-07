@@ -1,0 +1,82 @@
+[
+    {
+       "id":1,
+      "image": "src/assets/img/menu/grilled-chicken.jpeg",
+      "category": "starters",
+      "name": "Grilled Chicken",
+      "price": "2000",
+      "description": "Grilled chicken: Succulent, savory, seasoned to perfection"
+    },
+    {
+        "id":2,
+        "image": "src/assets/img/menu/bread-barrel.jpg",
+      "category": "specialty",
+      "name": "Bread Barrel",
+      "price": "1500",
+      "description": "Experience bread perfection where every bite is pure delight."
+    },
+    {
+        "id":3,
+
+      "image": "src/assets/img/menu/cake.jpg",
+      "category": "starters",
+      "name": "Crab Cake",
+      "price": "1000",
+      "description": "A delicate crab cake served on a toasted roll"
+    },
+    {
+        "id":4,
+
+      "image": "src/assets/img/menu/caesar.jpg",
+      "category": "salads",
+      "name": "Caesar Selections",
+      "price": "2350",
+      "description": "Classic Caesar Salad with Crisp and cream"
+    },
+    {
+        "id":5,
+
+      "image": "src/assets/img/menu/tuscan-grilled.jpg",
+      "category": "specialty",
+      "name": "Tuscan Grilled",
+      "price": "1600",
+      "description": "Grilled chicken with provolone and roasted red pesto"
+    },
+    {
+        "id":6,
+
+      "image": "src/assets/img/menu/mozzarella.jpg",
+      "category": "starters",
+      "name": "Mozzarella Stick",
+      "price": "1000",
+      "description": "Melt in your mouth Mozzarella Sticks, crispy outside, gooey inside."
+    },
+    {
+        "id":7,
+
+      "image": "src/assets/img/menu/greek-salad.jpg",
+      "category": "salads",
+      "name": "Greek Salad",
+      "price": "950",
+      "description": "Fresh spinach, crisp romaine, tomatoes, and Greek olives"
+    },
+    {
+        "id":8,
+
+      "image": "src/assets/img/menu/spinach-salad.jpg",
+      "category": "salads",
+      "name": "Spinach Salad",
+      "price": "1150",
+      "description": "Fresh spinach with mushrooms and warm bacon vinaigrette"
+    },
+    {
+        "id":9,
+
+      "image": "src/assets/img/menu/lobster-roll.jpg",
+      "category": "specialty",
+      "name": "Lobster Roll",
+      "price": "1495",
+      "description": "Plump lobster meat, mayo and crisp lettuce on a toasted bulky roll"
+    }
+  ]
+  
