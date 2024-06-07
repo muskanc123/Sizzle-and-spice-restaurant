@@ -13,7 +13,7 @@ Welcome to the Sizzle and Spice Restaurant repository! This project is designed 
 
 - **Frontend:** React, HTML, CSS, JavaScript
 - **Storage:** Local Storage
-- **Styling:** Bootstrap, SASS
+- **Styling:** Bootstrap,Animations
 
 ## Installation
 
